@@ -43,3 +43,7 @@ Install AWS CLI
 
 Before proceeding, ensure that the AWS CLI is installed on your local machine. Follow the instructions below based on your operating system.
 
+##Conclusion
+
+In this lab, you learned how to create an IAM policy and role using Terraform. You defined an IAM policy that allows S3 access, created an IAM role that can be assumed by EC2 instances, and attached the policy to the role. This exercise demonstrates the power of Terraform in managing AWS IAM resources, highlighting best practices for security and role-based access control.
+
